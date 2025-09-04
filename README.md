@@ -12,7 +12,7 @@ I create engaging content about technology and development.
 🎥 **YouTube Channel:** [Sithija Dilshan YT](https://youtube.com/@sithijadilshan-23?si=tZvD7JbgSFjiSG1E)
 
 ## GitHub Stats
-![Sithija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SithijaDilshanWickramasinghe&show_icons=true&theme=radical)
+![Sithija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sithija2k03&show_icons=true&theme=radical)
 
 ## Connect with Me
 - **Email:** [sithijadilshan2k03@gmail.com](mailto:sithijadilshan2k03@gmail.com)  
